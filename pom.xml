@@ -6,7 +6,7 @@
 	<groupId>com.accenture</groupId>
 	<artifactId>HelloDocker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>HelloDocker</name>
 	<description>Demo project for Docker</description>
